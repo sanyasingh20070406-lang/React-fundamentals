@@ -35,3 +35,4 @@ To run this application repository locally, follow these commands:
    npm run dev
    ```
 4. Access the web view inside your browser interface at the URL printed in your terminal (e.g., `http://localhost:5174/`).
+<img width="937" height="867" alt="image" src="https://github.com/user-attachments/assets/a0fedba9-8ffc-4434-bfe7-53d81220e473" />
